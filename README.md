@@ -6,9 +6,7 @@
 
 gmail: maleyka.heybatova22@gmail.com
 
-
 LinkedIn adress: http://linkedin.com/in/maleyka-heybatova-6a003b234
-
 
 Discord : maleyka_Azerbaijan#8687
 <!---
