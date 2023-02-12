@@ -6,7 +6,7 @@
 
 [gmail](maleyka.heybatova22@gmail.com)
 
-! [<i class="bi bi-linkedin"></i>](http://linkedin.com/in/maleyka-heybatova-6a003b234)
+![<i class="bi bi-linkedin"></i>](http://linkedin.com/in/maleyka-heybatova-6a003b234)
 
 [Discord](https://discord.com/channels/@me)
 <!---
