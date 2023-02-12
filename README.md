@@ -6,9 +6,9 @@
 
 gmail: maleyka.heybatova22@gmail.com
 
-LinkedIn adress: http://linkedin.com/in/maleyka-heybatova-6a003b234
+[LinkedIn adress](http://linkedin.com/in/maleyka-heybatova-6a003b234)
 
-Discord : maleyka_Azerbaijan#8687
+[Discord](maleyka_Azerbaijan#8687)
 <!---
 hmaleyka/hmaleyka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
