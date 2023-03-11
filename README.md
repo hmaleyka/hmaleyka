@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src=https://github.com/hmaleyka/hmaleyka/edit/main/header.svg" alt="Maleyka Heybatova" />
+</h1>
+
 - 👋 Hi, I’m @hmaleyka
 - 👀 Welcome to my GitHub Profile
 - 🌱 I’m currently studying Computer Sciences
