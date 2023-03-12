@@ -1,6 +1,6 @@
- <!--- <h1 align="center">
+  <h1 align="center">
   <img src="https://raw.githubusercontent.com/hmaleyka/hmaleyka/main/header.svg" alt="Maleyka Heybatova" />
-</h1> --->
+</h1> 
 
 - 👋 Hi, I’m @hmaleyka
 - 👀 Welcome to my GitHub Profile
