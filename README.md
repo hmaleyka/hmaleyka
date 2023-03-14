@@ -8,7 +8,7 @@
 - 📫 Contact me: maleyka.heybatova22@gmail.com.
 
 
-     - [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_white.svg"/>](http://linkedin.com/in/maleyka-heybatova-6a003b234)
+     - [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/LinkedIN_black.svg"/>](http://linkedin.com/in/maleyka-heybatova-6a003b234)
  
        [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Gmail_black.svg"/>](mailto:maleyka.heybatova.rauf@bsu.edu.az)
        
