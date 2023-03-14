@@ -8,9 +8,9 @@
 - 📫 Contact me: maleyka.heybatova22@gmail.com.
 
 
-     - [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_grey.svg"/>](http://linkedin.com/in/maleyka-heybatova-6a003b234)
+     - [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_white.svg"/>](http://linkedin.com/in/maleyka-heybatova-6a003b234)
  
-       [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Gmail_grey.svg"/>](mailto:maleyka.heybatova.rauf@bsu.edu.az)
+       [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Gmail_black.svg"/>](mailto:maleyka.heybatova.rauf@bsu.edu.az)
        
 <!---
 hmaleyka/hmaleyka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
