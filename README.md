@@ -4,8 +4,6 @@
 
 - 👋 Hi, I’m @hmaleyka
 - 👀 Welcome to my GitHub Profile
-- 🌱 I’m currently studying Computer Sciences
-- 📫 Contact me: maleyka.heybatova22@gmail.com.
 
 
      - [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/LinkedIN_white.svg"/>](http://linkedin.com/in/maleyka-heybatova-6a003b234)
